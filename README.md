@@ -25,4 +25,6 @@ conda create -p venv python==3.7 -y
  '''
  git add 'name of file to add'
  git status' print the status of modified files'
+ git commit -m "message"
+ git push origin main
  '''
